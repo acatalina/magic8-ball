@@ -2,7 +2,7 @@
   "name": "magic-ball",
   "version": "0.0.1",
   "private": false,
-  "homepage": "https://acatalina.github.io",
+  "homepage": "https://acatalina.github.io/",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.8.5"
