@@ -13,7 +13,7 @@ var App = React.createClass({
     return (
       <div className="main-wrapper">
         <header>Drasek presents... Magic 8 Ball</header>
-        <content className="content">
+        <section className="content">
           <div className="info">They say that knowing the future will always
             bring misery...
           </div>
@@ -22,7 +22,7 @@ var App = React.createClass({
             on to reveal what your future holds...
           </div>
           <MagicBall answers={this.state.answers} />
-        </content>
+        </section>
         <footer>
           <p className="created">Created and Coded by:
             <a href="https://github.com/acatalina">Drasek</a>

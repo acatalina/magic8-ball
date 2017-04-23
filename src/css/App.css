@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+html {
+  min-width: 348px;
+  min-height: 634px;
+}
+
 html,
 body,
 #root,
