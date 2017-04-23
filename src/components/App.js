@@ -19,7 +19,7 @@ var App = React.createClass({
           </div>
           <div className="info">but if you are brave
             enough to ask the magic ball, just think very carefully and click 
-            on to reveal what your future holds...
+            to reveal what your future holds...
           </div>
           <MagicBall answers={this.state.answers} />
         </section>
